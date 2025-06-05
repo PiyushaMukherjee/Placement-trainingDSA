@@ -1,0 +1,5 @@
+Difficult (2 Questions)
+1. Implement a Function that Returns a Pointer to the Largest Element in an Array
+Write a function that takes an array and returns a pointer to the largest element.
+2. Create and Manipulate a 2D Array Using Double Pointers
+Write a program to dynamically allocate a 2D matrix using double pointers, fill it with values, and then print the matrix.

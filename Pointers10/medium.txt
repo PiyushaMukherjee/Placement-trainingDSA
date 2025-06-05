@@ -1,0 +1,7 @@
+Medium (3 Questions)
+1. Reverse an Array Using Pointers
+Write a program to reverse an array in-place using pointers.
+2. Count Vowels in a String Using Pointers
+Write a C program to count the number of vowels in a string using a pointer.
+3. Dynamic Memory Allocation for Array Using Pointers
+Create a program to take the size of an array at runtime, allocate memory using malloc, accept values, and print the array.
